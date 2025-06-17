@@ -1,5 +1,5 @@
 <!-- Profile README for @Failureguy94 -->
-![Banner](assets/banner.gif)
+![Banner](Assets)
 <p align="center">
   <img src="assets/banner.gif" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
 </p>
