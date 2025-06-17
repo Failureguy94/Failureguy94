@@ -1,5 +1,5 @@
 <!-- Profile README for @Failureguy94 -->
-![alt text]([http://url/to/img.png](https://sdmntprwestus2.oaiusercontent.com/files/00000000-ac58-61f8-b54a-408d0bb45326/raw?se=2025-06-17T08%3A01%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=4bba2a9e-896b-5cc4-8557-7ee9b5e8dde3&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-17T01%3A00%3A18Z&ske=2025-06-18T01%3A00%3A18Z&sks=b&skv=2024-08-04&sig=2JMc2xweBlCproQrSnDgSg7GmHkYSMgSKDdBWpwGI/E%3D))
+![Banner](assets/banner.gif)
 <p align="center">
   <img src="assets/banner.gif" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
 </p>
