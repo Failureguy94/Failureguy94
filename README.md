@@ -11,7 +11,7 @@
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkas4na&label=Profile%20views&color=0e75b6&style=flat" alt="harshkas4na" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Failureguy94&label=Profile%20views&color=0e75b6&style=flat" alt="Failureguy94" /> </p>
 
 ### 💻 Tech Stack
 
