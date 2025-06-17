@@ -26,6 +26,9 @@
 </p>
 
 ---
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Failureguy94&layout=compact&theme=vision-friendly-dark&langs_count=8&size_weight=0.5&count_weight=0.5"></p>
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
