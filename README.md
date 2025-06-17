@@ -1,11 +1,8 @@
 <!-- Profile README for @Failureguy94 -->
-
+<h2 align="center">🔥 Sarthak aka Failureguy94 🔥</h2>
 <p align="center">
-  <img src="Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
+  <img src="Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png" alt="Sarthak's GitHub Banner" style="border-radius: 15px; width:450px; height:450px" />
 </p>
-
-<h2 align="center">🔥 Sarthak | Failureguy94 🔥</h2>
-
 <p align="center">
   <strong>Turning code into magic | Inspired by Shu Kurenai | Focused, Unstoppable</strong>
 </p>
@@ -25,19 +22,10 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidity,tailwind,git,github,vscode,linux,vercel,hardhat" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidity,tailwind,git,github,vscode,linux,python,cpp,html,css,js" />
 </p>
 
 ---
-
-### 🎷 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kvjvr4pyl6x5t76oo6oklvc554&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -55,8 +43,27 @@
 ---
 
 ### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://github.com/Failureguy94"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/31kvjvr4pyl6x5t76oo6oklvc554"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31kvjvr4pyl6x5t76oo6oklvc554"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <!-- LinkedIn -->
+  <a href="http://www.linkedin.com/in/sarthak14313" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak14313 on LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sarthak.parkale.7/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak.parkale.7 on Instagram" height="30" width="40" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/sarthak14313" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak14313 on CodeChef" height="30" width="40" />
+  </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/Sarthak14313" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sarthak14313 on Codeforces" height="30" width="40" />
+  </a>
+
 </p>
+
