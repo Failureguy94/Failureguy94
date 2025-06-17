@@ -13,10 +13,19 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Failureguy94&label=Profile%20views&color=0e75b6&style=flat" alt="Failureguy94" /> </p>
 
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Failureguy94&theme=algolia&no-bg=true&margin-w=15&no-frame=true" alt="Failureguy94" />
+  </a>
+</p>
+
+
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidity,tailwind,git,github,vscode,linux,vercel,hardhat,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidity,tailwind,git,github,vscode,linux,vercel,hardhat" />
 </p>
 
 ---
