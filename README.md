@@ -1,5 +1,5 @@
 <!-- Profile README for @Failureguy94 -->
-![Banner](Assets)
+![Banner](Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png)
 <p align="center">
   <img src="assets/banner.gif" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
 </p>
