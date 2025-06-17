@@ -1,7 +1,7 @@
 <!-- Profile README for @Failureguy94 -->
-![Banner](Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png)
+
 <p align="center">
-  <img src="assets/banner.gif" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
+  <img src="Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png" alt="Sarthak's GitHub Banner" style="border-radius: 15px;" />
 </p>
 
 <h2 align="center">🔥 Sarthak | Failureguy94 🔥</h2>
@@ -11,6 +11,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkas4na&label=Profile%20views&color=0e75b6&style=flat" alt="harshkas4na" /> </p>
 
 ### 💻 Tech Stack
 
