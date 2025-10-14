@@ -1,14 +1,14 @@
 <!-- Profile README for @Failureguy94 -->
 <h2 align="center">🔥 Sarthak aka Failureguy94 🔥</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png" alt="Sarthak's GitHub Banner" style="border-radius: 15px; width:450px; height:450px" />
 </p>
 <p align="center">
   <strong>Turning code into magic | Inspired by Shu Kurenai | Focused, Unstoppable</strong>
-</p>
+</p> -->
 
 ---
-<img src="https://counter.kuber.studio/Failureguy94/cat/count.svg" alt="Profile views" />
+<!-- <img src="https://counter.kuber.studio/Failureguy94/cat/count.svg" alt="Profile views" /> -->
 
 ### 🏆 GitHub Trophies
 
