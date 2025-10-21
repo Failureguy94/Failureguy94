@@ -40,19 +40,31 @@
 
 </div>
 
+
+
+
 ---
 
 <div align="center">
+  
+## 📈 Contribution Activity
 
-## 🧠 Currently Working On
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Failureguy94&theme=radical&hide_border=false&bg_color=0D1117&border_color=F75C7E&layout=compact&langs_count=8" width="40%" height="50%" alt="Top Languages" />
+</p>
+
 
 </div>
 
-- 🛠️ zk-credit proofs with Noir
-- 🔐 NebulaLend – privacy-preserving DeFi protocol
-- 🌐 Building Frontend in TypeScript (Next.js + Wagmi)
-
 ---
+
+
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Failureguy94&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="80%" />
+  
+</div>
 
 <div align="center">
 
@@ -76,30 +88,4 @@
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-  
-## 🐍 Contribution Snake Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Failureguy94&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-  
-  ### ⚡ Fun Fact: *"The best error message is the one that never shows up."* 💡
-  
-  <p>Made with ❤️ by <a href="https://github.com/Failureguy94">Failureguy94</a></p>
-  
 </div>
