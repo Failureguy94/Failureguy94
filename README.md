@@ -1,7 +1,7 @@
 <!-- Profile README for @Failureguy94 -->
 <h2 align="center">🔥 Sarthak aka Failureguy94 🔥</h2>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Sarthak+%7C+Failureguy94;Blockchain+Developer+%F0%9F%94%97;Full+Stack+Engineer+%F0%9F%92%BB;Turning+Code+into+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Sarthak+%7C+Failureguy94;Blockchain+Developer+%F0%9F%94%97;Competitive+Programmer+%F0%9F%92%BB;Sophomore+at+IIIT+Nagpur+%E2%9C%A8" alt="Typing SVG" />
 </p>
  
 <p align="center">
