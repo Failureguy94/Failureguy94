@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Failureguy94&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Failureguy94&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Failureguy94&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&border_color=F75C7E" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Failureguy94&theme=radical&hide_border=false&background=0D1117&border=F75C7E" width="50%" alt="GitHub Streak" />
 </p>
 
 </div>
