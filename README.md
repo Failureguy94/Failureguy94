@@ -1,32 +1,29 @@
 <!-- Profile README for @Failureguy94 -->
 <h2 align="center">🔥 Sarthak aka Failureguy94 🔥</h2>
-<!-- <p align="center">
-  <img src="Assets/f3e823a7-64c5-4cb3-ba14-6e72e76e1dfc.png" alt="Sarthak's GitHub Banner" style="border-radius: 15px; width:450px; height:450px" />
-</p>
 <p align="center">
-  <strong>Turning code into magic | Inspired by Shu Kurenai | Focused, Unstoppable</strong>
-</p> -->
-
-
-<!-- <img src="https://counter.kuber.studio/Failureguy94/cat/count.svg" alt="Profile views" /> -->
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Sarthak+%7C+Failureguy94;Blockchain+Developer+%F0%9F%94%97;Full+Stack+Engineer+%F0%9F%92%BB;Turning+Code+into+Magic+%E2%9C%A8" alt="Typing SVG" />
+</p>
+ 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Failureguy94&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Failureguy94?label=Followers&style=social" alt="GitHub followers" />
+</p>
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Failureguy94&theme=algolia&no-bg=true&margin-w=15&no-frame=true" alt="Failureguy94" />
-  </a>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Failureguy94&theme=algolia&no-bg=true&margin-w=15&no-frame=true&column=7&rank=-C,-?&row=1" alt="Failureguy94" />
 </p>
 
 
-### 💻 Tech Stack
 
+## 💻 Tech Stack & Skills 
+ <p align="center">
+ <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,solidity,python,cpp" alt="Languages" />
+</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,solidity,tailwind,git,github,vscode,linux,python,cpp,html,css,js" />
-</p>
-
----
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Failureguy94&layout=compact&theme=vision-friendly-dark&langs_count=8&size_weight=0.5&count_weight=0.5"></p>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,git,github,vscode,linux,docker" alt="Tools & Technologies" />
+ </p>
 
 ---
 ### 📊 GitHub Stats
