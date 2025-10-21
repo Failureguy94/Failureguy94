@@ -15,6 +15,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Failureguy94&theme=algolia&no-bg=true&margin-w=15&no-frame=true&column=7&rank=-C,-?&row=1" alt="Failureguy94" />
 </p>
 
+</div>
+
 
 
 ## 💻 Tech Stack & Skills 
@@ -26,44 +28,77 @@
  </p>
 
 ---
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Failureguy94&show_icons=true&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=Failureguy94&theme=radical" width="47%" />
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Failureguy94&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Failureguy94&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
+
+</div>
 
 ---
 
-### 🧠 Currently Working On
+<div align="center">
+
+## 🧠 Currently Working On
+
+</div>
+
 - 🛠️ zk-credit proofs with Noir
 - 🔐 NebulaLend – privacy-preserving DeFi protocol
 - 🌐 Building Frontend in TypeScript (Next.js + Wagmi)
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://open.spotify.com/user/31kvjvr4pyl6x5t76oo6oklvc554"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <!-- LinkedIn -->
+<div align="center">
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://open.spotify.com/user/31kvjvr4pyl6x5t76oo6oklvc554">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
   <a href="http://www.linkedin.com/in/sarthak14313" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak14313 on LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/sarthak.parkale.7/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak.parkale.7 on Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/sarthak14313" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sarthak14313 on CodeChef" height="30" width="40" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-
-  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/Sarthak14313" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sarthak14313 on Codeforces" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-
 </p>
 
+</div>
+
+---
+
+<div align="center">
+  
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Failureguy94/Failureguy94/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Failureguy94&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  
+  ### ⚡ Fun Fact: *"The best error message is the one that never shows up."* 💡
+  
+  <p>Made with ❤️ by <a href="https://github.com/Failureguy94">Failureguy94</a></p>
+  
+</div>
