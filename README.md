@@ -57,8 +57,8 @@
 </div>
 
 ---
-
-
+[![An image of @failureguy94's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/failureguy94)](https://holopin.io/@failureguy94)
+---
 
 <div align="center">
   
